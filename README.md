@@ -2,9 +2,6 @@
 - 👀 I’m interested in building theme, third-party app integrations, advanced functionalities on Shopify & Shopify plus
 - 🌱 I’m currently learning Blockchain marketplace.
 - 💞️ I’m looking to collaborate on Shopify development.
-- 📫 Please feel free to message me via telegram or phone.
-      Tele : @happydream9
-      Phone: +55 62 98583 1470
 
 I am a certified individual Shopify developer has years of experience in developing and designing the Shopify stores.
 FYI, I have worked with USA, UK, NL shopify dev companies ( Texture.London BlueStout.com,  fairytabs.com etc) for 8+ years and got rich experience in building complex shopify themes, installing apps, integrating third-party features and advanced functionalities.
