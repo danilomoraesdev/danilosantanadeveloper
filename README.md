@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danilosantanadeveloper
+- 👋 Hi, I’m @danilomoraesdev
 - 👀 I’m interested in building theme, third-party app integrations, advanced functionalities on Shopify & Shopify plus
 - 🌱 I’m currently learning Blockchain marketplace.
 - 💞️ I’m looking to collaborate on Shopify development.
